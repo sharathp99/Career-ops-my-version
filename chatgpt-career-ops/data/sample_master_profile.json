@@ -1,0 +1,7 @@
+{
+  "name": "Alex Doe",
+  "location": "United States",
+  "target_roles": ["Backend Engineer", "Data Engineer"],
+  "preferred_industries": ["SaaS", "Fintech"],
+  "work_authorization": "US"
+}

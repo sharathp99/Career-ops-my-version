@@ -1,0 +1,10 @@
+Senior Backend Engineer
+Responsibilities
+- Build APIs
+- Improve reliability
+Requirements
+- Python
+- SQL
+Preferred
+- Kubernetes
+This role is in a SaaS fintech platform.
