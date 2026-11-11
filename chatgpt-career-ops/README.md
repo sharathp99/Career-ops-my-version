@@ -18,6 +18,10 @@ cp .env.example .env
 alembic upgrade head
 ```
 
+
+# adding coments 
+# for testing 
+
 ## Local run commands
 ```bash
 uvicorn app.main:app --reload
